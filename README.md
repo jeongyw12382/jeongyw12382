@@ -7,7 +7,7 @@
 <a href="https://www.overleaf.com/read/xvqdfqfjpkyc" target="_blank"><img src="https://img.shields.io/badge/CurriculumVitae-green?style=plastic&logo=Overleaf&logoColor=#47A141"/></a>
 <a href="mailto:﻿jyw123822@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-red?style=plastic&logo=Gmail&logoColor=white"/></a>
 
-Hi I'm YoonwooJeong. I'm interested in **Neural Rendering**, **3D Perception**, and **Correspondence Problem**. 
+Hi I'm YoonwooJeong. I'm interested in **Neural Rendering**, **3D Perception**, and **Correspondence Problems**. 
 ## Publications 
  <img src="https://img.shields.io/badge/2nd%20Author-silver?style=plastic"/> Fast Point Transformer (CVPR22) <a href="" target="_blank"><img src="https://img.shields.io/badge/Code-black?style=plastic&logo=GitHub&logoColor=#181717"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/arXiv-skygreen?style=plastic&logo=arXiv&logoColor=yellow"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Project%20Page-9cf?style=plastic&logo=GitBook&logoColor=#3884FF"/></a> 
 
