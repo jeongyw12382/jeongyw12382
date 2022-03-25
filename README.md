@@ -1,16 +1,24 @@
-### Hi there 👋
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Yoonwoo%20Jeong&fontAlign=60&fontAlignY=40&color=gradient)
 
-<!--
-**jeongyw12382/jeongyw12382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://medium.com/@yoonwoojeong" target="_blank"><img src="https://img.shields.io/badge/Blog-black?style=plastic&logo=Medium&logoColor=#000000"/></a>
+<a href="https://www.facebook.com/profile.php?id=100006918221839" target="_blank"><img src="https://img.shields.io/badge/Facebook-white?style=plastic&logo=Facebook&logoColor=#1877F2"/></a>
+<a href="https://www.linkedin.com/in/yoonwoo-jeong-6994ab185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn&logoColor=#0A66C2"/></a>
+<a href="https://www.linkedin.com/in/yoonwoo-jeong-6994ab185/" target="_blank"><img src="https://img.shields.io/badge/CurriculumVitae-green?style=plastic&logo=Overleaf&logoColor=#47A141"/></a>
+<a href="mailto:﻿jyw123822@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-red?style=plastic&logo=Gmail&logoColor=white"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Publications 
+ <img src="https://img.shields.io/badge/2nd%20Author-silver?style=plastic"/> Fast Point Transformer (CVPR22) <a href="" target="_blank"><img src="https://img.shields.io/badge/Code-black?style=plastic&logo=GitHub&logoColor=#181717"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/arXiv-skygreen?style=plastic&logo=arXiv&logoColor=yellow"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Project%20Page-9cf?style=plastic&logo=GitBook&logoColor=#3884FF"/></a> 
+
+<img src="https://img.shields.io/badge/2nd%20Author-silver?style=plastic"/>   Self-supervised Learning of Image Scale and Orientation Estimation (BMVC21) 
+<img src="https://img.shields.io/badge/Code-black?style=plastic&logo=GitHub&logoColor=#181717"/></a> 
+<a href="https://arxiv.org/abs/2108.13826" target="_blank"><img src="https://img.shields.io/badge/arXiv-skygreen?style=plastic&logo=arXiv&logoColor=yellow"/></a> 
+
+<img src="https://img.shields.io/badge/1st%20Author-gold?style=plastic"/>  Self-calibrating Neural Radiance Fields (ICCV21) 
+<img src="https://img.shields.io/badge/Code-black?style=plastic&logo=GitHub&logoColor=#181717"/></a> 
+<a href="https://arxiv.org/abs/2108.13826" target="_blank"><img src="https://img.shields.io/badge/arXiv-skygreen?style=plastic&logo=arXiv&logoColor=yellow"/></a> 
+<a href="https://postech-cvlab.github.io/SCNeRF/" target="_blank"><img src="https://img.shields.io/badge/Project%20Page-9cf?style=plastic&logo=GitBook&logoColor=#3884FF"/></a> 
+<a href="https://www.youtube.com/watch?v=wsjx6geduvk" target="_blank"><img src="https://img.shields.io/badge/Quick%20Intro-white?style=plastic&logo=YouTube&logoColor=red"/></a> 
+<a href="https://www.youtube.com/watch?v=DDy2DYrW9G0" target="_blank"><img src="https://img.shields.io/badge/Full%20Video-white?style=plastic&logo=YouTube&logoColor=red"/></a> 
+
+<img src="https://img.shields.io/badge/2nd%20Author-silver?style=plastic"/> Learning to Distill Convolutional Features Into Compact Local Descriptors (WACV21) <a href="https://openaccess.thecvf.com/content/WACV2021/papers/Lee_Learning_to_Distill_Convolutional_Features_Into_Compact_Local_Descriptors_WACV_2021_paper.pdf" target="_blank"><img src="https://img.shields.io/badge/arXiv-skygreen?style=plastic&logo=arXiv&logoColor=yellow"/></a> 
