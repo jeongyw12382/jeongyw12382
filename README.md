@@ -6,6 +6,8 @@
 <a href="https://www.linkedin.com/in/yoonwoo-jeong-6994ab185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn&logoColor=#0A66C2"/></a>
 <a href="https://www.overleaf.com/read/xvqdfqfjpkyc" target="_blank"><img src="https://img.shields.io/badge/CurriculumVitae-green?style=plastic&logo=Overleaf&logoColor=#47A141"/></a>
 <a href="mailto:﻿jyw123822@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-red?style=plastic&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/yoonwoojeong" target="_blank"><img src="https://img.shields.io/badge/Twitter-white?style=plastic&logo=Twitter&logoColor=skyblue"/></a>
+
 
 Hi I'm YoonwooJeong. I'm interested in **Neural Rendering**, **3D Perception**, and **Correspondence Problems**. 
 ## Publications 
