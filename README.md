@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Yoonwoo%20Jeong&fontAlign=60&fontAlignY=40&color=gradient)
 
 
-<a href="https://medium.com/@yoonwoojeong" target="_blank"><img src="https://img.shields.io/badge/Blog-black?style=plastic&logo=Medium&logoColor=#000000"/></a>
+<a href="https://yoonwooinfo.notion.site" target="_blank"><img src="https://img.shields.io/badge/Blog-black?style=plastic&logo=Medium&logoColor=#000000"/></a>
 <a href="https://www.facebook.com/profile.php?id=100006918221839" target="_blank"><img src="https://img.shields.io/badge/Facebook-white?style=plastic&logo=Facebook&logoColor=#1877F2"/></a>
 <a href="https://www.linkedin.com/in/yoonwoo-jeong-6994ab185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn&logoColor=#0A66C2"/></a>
 <a href="https://www.overleaf.com/read/xvqdfqfjpkyc" target="_blank"><img src="https://img.shields.io/badge/CurriculumVitae-green?style=plastic&logo=Overleaf&logoColor=#47A141"/></a>
