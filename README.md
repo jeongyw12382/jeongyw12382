@@ -9,7 +9,7 @@
 <a href="https://twitter.com/yoonwoojeong" target="_blank"><img src="https://img.shields.io/badge/Twitter-white?style=plastic&logo=Twitter&logoColor=skyblue"/></a>
 
 
-Hi I'm YoonwooJeong. I'm interested in **Neural Rendering**, **3D Perception**, and **Correspondence Problems**. 
+Hi I'm YoonwooJeong. I'm interested in **Diffusion Models**, **Neural Rendering**, **3D Perception**, and **Correspondence Problems**. 
 ## Projects 
 
  <img src="https://img.shields.io/badge/1st%20Author-gold?style=plastic"/> NVS-Adapter: Plug-and-Play Novel View Synthesis from a Single Image (To be released) 
