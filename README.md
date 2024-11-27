@@ -12,6 +12,9 @@
 Hi I'm YoonwooJeong. I'm interested in **Diffusion Models**, **Neural Rendering**, **3D Perception**, and **Correspondence Problems**. 
 ## Projects 
 
+ <img src="https://img.shields.io/badge/1st%20Author-gold?style=plastic"/> RoDyGS: Robust Dynamic Gaussian Splatting for Casual Videos (Coming Soon!)
+
+
  <img src="https://img.shields.io/badge/1st%20Author-gold?style=plastic"/> NVS-Adapter: Plug-and-Play Novel View Synthesis from a Single Image (ECCV24) <a href="https://arxiv.org/abs/2312.07315" target="_blank"><img src="https://img.shields.io/badge/arXiv-skygreen?style=plastic&logo=arXiv&logoColor=yellow"/></a> <a href="https://postech-cvlab.github.io/nvsadapter/" target="_blank"><img src="https://img.shields.io/badge/Project%20Page-9cf?style=plastic&logo=GitBook&logoColor=#3884FF"/></a> <a href="https://github.com/kakaobrain/nvs-adapter" target="_blank"><img src="https://img.shields.io/badge/Code-black?style=plastic&logo=GitHub&logoColor=#18171"/></a> 
 
 
